@@ -79,8 +79,7 @@
 			<div class="container">
                 <div class="earth"></div>
                         <div class="greeting">
-                             Hi Aliens!<br/>I'm <span style="color: #00FF00;">Hoài Bảo DEV
-                        </span>!from the Earth.
+                             Hi Aliens!<br/>I'm <span style="color: #FFD700;">Hoài Bảo </span><br/>Web Developer
                 </div>
 			</div>
 		</div>
